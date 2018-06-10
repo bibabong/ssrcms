@@ -24,6 +24,7 @@ namespace Illuminate\Support\Facades {
         {
             return \Illuminate\Foundation\Application::version();
         }
+        
         /**
          * Run the given array of bootstrap classes.
          *
